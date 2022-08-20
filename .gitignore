@@ -1,0 +1,5 @@
+cmake-*
+.idea*
+bundle/wkSneed.dll
+wkSneed/
+build/
